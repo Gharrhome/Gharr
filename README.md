@@ -9,14 +9,19 @@ This repository hosts my personal website, covering topics including:
 - AI in medicine and medical breakthroughs — including the potential to cure diseases and solve aging  
 - Zeroth-principles thinking  
 - Suno and Music  
-- Vocaloids and future technology  
+- Vocaloids
+- future technology  
 - Global concepts like Resource-Based Economy (RBE) and The Venus Project  
 - Thoughts on how copyright laws are outdated in the era of rapidly advancing AI  
-- The idea that AI doesn’t take your job; it enables you to do *any* job  
+- The idea that AI doesn’t take your job; it enables you to do *any* thing you want to do  
 
 I’m passionate about exploring how technology and society can evolve together.
 
-Visit the live site at: https://gharr.github.io
+## Live Site Links
+
+- 🌐 Main personal site: [https://gharrhome.github.io](https://your-username.github.io)
+- 📁 This project’s page: [https://gharrhome.github.io/gharr/](https://your-username.github.io/shortened_name/)
+
 
 ---
 
