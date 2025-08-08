@@ -20,7 +20,7 @@ I’m passionate about exploring how technology and society can evolve together.
 ## Live Site Links
 
 - 🌐 Main personal site: [https://gharrhome.github.io](https://gharrhome.github.io)
-- 📁 This project’s page: [https://gharrhome.github.io/gharr/](https://gharrhome.github.io/gharr/)
+- 📁 This project’s page "Gharr": just a storage space at the moment.
 
 
 ---
